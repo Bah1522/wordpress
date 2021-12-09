@@ -8,6 +8,7 @@ Seção #02 projetos desenvolvido durante a jornada #kick
 ![image](https://user-images.githubusercontent.com/89865694/145091604-75abe085-24a5-4dc2-8d75-12373745bf8e.png)
 
 Seção #03 Formação 
+
 ![formação ](https://user-images.githubusercontent.com/89865694/145422135-bcf49b36-3a30-48d7-b259-2f1e21c0e798.jpg)
 
 
