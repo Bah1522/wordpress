@@ -7,4 +7,8 @@ Seção #01 apresentação pessoal
 Seção #02 projetos desenvolvido durante a jornada #kick
 ![image](https://user-images.githubusercontent.com/89865694/145091604-75abe085-24a5-4dc2-8d75-12373745bf8e.png)
 
+Seção #03 Formação 
+![hhhh](https://user-images.githubusercontent.com/89865694/145421565-bd5d99cb-d4e2-4b57-9f6d-3f326da3d9ca.png)
+
+
 
